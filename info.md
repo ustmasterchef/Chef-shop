@@ -37,7 +37,7 @@ permalink: /info
 
 # Welcome
 
-Welcome to (ust_masterchef)'s stream.
+Welcome to ust_masterchef's stream.
 This stream uses the mod
 [Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) to provide an
 interactive experience. There's a lot to the mod that may seem complicated to even more experienced
